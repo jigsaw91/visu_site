@@ -6,8 +6,8 @@
 </description>
     <link>http://yourdomain.com/visu_site/</link>
     <atom:link href="http://yourdomain.com/visu_site/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 29 Nov 2015 19:00:25 +0530</pubDate>
-    <lastBuildDate>Sun, 29 Nov 2015 19:00:25 +0530</lastBuildDate>
+    <pubDate>Sun, 29 Nov 2015 19:16:24 +0530</pubDate>
+    <lastBuildDate>Sun, 29 Nov 2015 19:16:24 +0530</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -30,6 +30,26 @@
         <pubDate>Sun, 29 Nov 2015 18:45:40 +0530</pubDate>
         <link>http://yourdomain.com/visu_site/jekyll/update/2015/11/29/welcome-to-jekyll.html</link>
         <guid isPermaLink="true">http://yourdomain.com/visu_site/jekyll/update/2015/11/29/welcome-to-jekyll.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Welcome to Jekyll2!</title>
+        <description>&lt;p&gt;HELLO DFDERE&lt;/p&gt;
+
+&lt;p&gt;XCXC
+2015-11-29 19:16:24 +0530
+29d 11m
+LQWE&lt;/p&gt;
+</description>
+        <pubDate>Sat, 28 Nov 2015 18:45:40 +0530</pubDate>
+        <link>http://yourdomain.com/visu_site/jekyll/update/2015/11/28/try.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/visu_site/jekyll/update/2015/11/28/try.html</guid>
         
         
         <category>jekyll</category>
