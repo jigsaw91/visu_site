@@ -8,6 +8,5 @@ HELLO DFDERE
 
 
 XCXC
-{{site.time}}
-{{ site.time | date: '%dd %mm' }}
 LQWE
+
